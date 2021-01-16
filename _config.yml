@@ -1,4 +1,1 @@
 theme: jekyll-theme-slate
- stylesheets:
-  all:
-   - docs/assets/css/style.scss
