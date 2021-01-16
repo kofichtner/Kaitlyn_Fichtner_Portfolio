@@ -1,2 +1,4 @@
 theme: jekyll-theme-slate
-classes: wide
+ stylesheets:
+  all:
+   - docs/assets/css/style.scss
