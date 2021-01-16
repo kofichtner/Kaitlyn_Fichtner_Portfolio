@@ -1,4 +1,3 @@
-# Welcome to my portfolio!
 # [Project 1: Detecting Fire from Images](https://github.com/kofichtner/Fire_Detection)
 •	Developed a fire detection method to be used in a portable, low-cost device for enhancing wildland firefighter safety
 •	Used pixel normalization, color ratio, and image subtraction to detect location of fire with 100% accuracy under ideal conditions and 75% accuracy under adverse conditions 
