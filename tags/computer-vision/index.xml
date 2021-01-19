@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Vision on Kaitlyn Fichtner</title>
+    <link>https://kofichtner.github.io/Kaitlyn_Fichtner_Portfolio/tags/computer-vision/</link>
+    <description>Recent content in Computer Vision on Kaitlyn Fichtner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Aug 2020 11:00:59 -0400</lastBuildDate><atom:link href="https://kofichtner.github.io/Kaitlyn_Fichtner_Portfolio/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fire Detection Research Internship</title>
+      <link>https://kofichtner.github.io/Kaitlyn_Fichtner_Portfolio/post/fire-detection/</link>
+      <pubDate>Sun, 30 Aug 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://kofichtner.github.io/Kaitlyn_Fichtner_Portfolio/post/fire-detection/</guid>
+      <description>Objective  Entrapment is a deadly safety concern for wildland firefighters. It occurs when firebrands ignite spotfires that quickly spread, blocking the firefighters escape routes and safety zones. The objective of this research is to develop a camera-based method for detecting spotfires that will be used in a low-cost, lightweight device worn by firefighters.
+Summary   Developed a color ratio method for detecting fire to be used in a portable, low-cost device for enhancing wildland firefighter safety Used pixel normalization, color ratio, and image subtraction on RGB and Near-IR images to detect location of fire with 100% accuracy under ideal conditions and 75% accuracy under adverse conditions Applied color ratio method in pre-processing of images for convolutional neural network, improving test accuracy to 96.</description>
+    </item>
+    
+    <item>
+      <title>Dynamic Sorting Robotic Arm</title>
+      <link>https://kofichtner.github.io/Kaitlyn_Fichtner_Portfolio/post/sorting-robot/</link>
+      <pubDate>Sun, 01 Mar 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://kofichtner.github.io/Kaitlyn_Fichtner_Portfolio/post/sorting-robot/</guid>
+      <description>Objective  Using a 3-dof robotic arm with a camera positioned above its task space, my team of 3 used computer vision to detect, locate, and sort objects by color and size.
+Summary   Applied transformation matrices to convert pixel coordinates to positions in the task space Implemented image segmentation techniques and color masking to locate and sort objects by color and size Utilized inverse differential kinematic controls for smoother movements Continuously searched the task space so that the arm could dynamically follow moving objects Built a URDF simulation of the robot   View GitHub Repository View Video View Project Report</description>
+    </item>
+    
+  </channel>
+</rss>
