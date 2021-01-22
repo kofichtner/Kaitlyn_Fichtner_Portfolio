@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project Portfolio on Kaitlyn Fichtner</title>
+    <link>https://kofichtner.github.io/Kaitlyn_Fichtner_Portfolio/</link>
+    <description>Recent content in Project Portfolio on Kaitlyn Fichtner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jan 2021 11:13:32 -0400</lastBuildDate><atom:link href="https://kofichtner.github.io/Kaitlyn_Fichtner_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploratory Data Analysis of My Movie Ratings</title>
+      <link>https://kofichtner.github.io/Kaitlyn_Fichtner_Portfolio/post/movie-ratings/</link>
+      <pubDate>Wed, 20 Jan 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://kofichtner.github.io/Kaitlyn_Fichtner_Portfolio/post/movie-ratings/</guid>
+      <description>With the goal of better understanding my movie preferences, I conducted exploratory data analysis using data from 499 movies I&amp;rsquo;ve rated on IMDb. After exploring and cleaning the data, I applied machine learning classification algorithms to predict my movie ratings.
+Summary:   Used correlation plot to detect multicollinearity Normalized skewed data Generated dummy variables for categorical predictors Standardized all numeric variables Built naive bayes, logistic regression, decision tree, k-nearest neighbor, random forest, support vector classifier, xgboost, and voting classifier models to predict movie rating with best test accuracy of 69.</description>
+    </item>
+    
+    <item>
+      <title>Recycling Sorting Machine Learning Algorithm</title>
+      <link>https://kofichtner.github.io/Kaitlyn_Fichtner_Portfolio/post/recycling-sorting/</link>
+      <pubDate>Fri, 01 Jan 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://kofichtner.github.io/Kaitlyn_Fichtner_Portfolio/post/recycling-sorting/</guid>
+      <description>Recycling and composting rates have been steadily increasing from 6.0% of total Municipal Solid Waste (MSW) in 1960 to 32.1% of MSW in 2018 [1]. With a growing amount of waste being recycled, automating the process of sorting recycling would make recycling facilities more efficient and improve conditions for workers. Recycling workers are at risk for severe injuries including loss of limb if caught between moving machinery, being crushed by equipment, injuries from falls, and hand or finger amputation or laceration from sharp objects [2,3].</description>
+    </item>
+    
+    <item>
+      <title>Initiative One - Multiplayer Game</title>
+      <link>https://kofichtner.github.io/Kaitlyn_Fichtner_Portfolio/post/initiative-one/</link>
+      <pubDate>Sun, 15 Nov 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://kofichtner.github.io/Kaitlyn_Fichtner_Portfolio/post/initiative-one/</guid>
+      <description>In under one week, my team of 5 students developed a multiplayer cooperative game called &amp;ldquo;Initiative One&amp;rdquo;. The theme of the game jam was &amp;ldquo;Co-operition&amp;rdquo; meaning a combination of competition and cooperation. The game also needed to relate to STEM (Science, Technology, Engineering, Math).
+Summary:  &amp;ldquo;Initiative One&amp;rdquo; emphasized cooperation by allowing up to 4 players to work together to research a planet. The researchers scan plants, animals, crystals, ore, and water to learn more about the planet.</description>
+    </item>
+    
+    <item>
+      <title>Fire Detection Research Internship</title>
+      <link>https://kofichtner.github.io/Kaitlyn_Fichtner_Portfolio/post/fire-detection/</link>
+      <pubDate>Sun, 30 Aug 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://kofichtner.github.io/Kaitlyn_Fichtner_Portfolio/post/fire-detection/</guid>
+      <description>Entrapment is a deadly safety concern for wildland firefighters. It occurs when firebrands ignite spotfires that quickly spread, blocking the firefighters escape routes and safety zones. The objective of this research is to develop a camera-based method for detecting spotfires that will be used in a low-cost, lightweight device worn by firefighters.
+Summary:   Developed a color ratio method for detecting fire to be used in a portable, low-cost device for enhancing wildland firefighter safety.</description>
+    </item>
+    
+    <item>
+      <title>Brigham and Women&#39;s Hospital Kiosk Application</title>
+      <link>https://kofichtner.github.io/Kaitlyn_Fichtner_Portfolio/post/hospital-kiosk/</link>
+      <pubDate>Fri, 01 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://kofichtner.github.io/Kaitlyn_Fichtner_Portfolio/post/hospital-kiosk/</guid>
+      <description>My team of 10 students developed a hospital kiosk application for assisting hospital visitors and patients at Brigham and Women’s Hospital. To help patients easily find where they need to go for appointments, our application has options for searching for locations using a doctor’s name. In addition to serving as a pathfinding application, the application allows users to request various services including internal transportation, security, sanitation, translator services, and more. The application also includes features for administrators to handle these service requests, manage employees, and update the maps used for pathfinding.</description>
+    </item>
+    
+    <item>
+      <title>Dynamic Sorting Robotic Arm</title>
+      <link>https://kofichtner.github.io/Kaitlyn_Fichtner_Portfolio/post/sorting-robot/</link>
+      <pubDate>Sun, 01 Mar 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://kofichtner.github.io/Kaitlyn_Fichtner_Portfolio/post/sorting-robot/</guid>
+      <description>Using a 3-dof robotic arm with a camera positioned above its task space, my team of 3 used computer vision to detect, locate, and sort objects by color and size.
+Summary:   Applied transformation matrices to convert pixel coordinates to positions in the task space. Implemented image segmentation techniques and color masking to locate and sort objects by color and size. Utilized inverse differential kinematic controls for smoother movements. Continuously searched the task space so that the arm could dynamically follow moving objects.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kofichtner.github.io/Kaitlyn_Fichtner_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kofichtner.github.io/Kaitlyn_Fichtner_Portfolio/contact/</guid>
+      <description>Contact          Email: kofichtner@wpi.edu   LinkedIn: www.linkedin.com/in/kaitlyn-fichtner   Github: https://github.com/kofichtner    </description>
+    </item>
+    
+  </channel>
+</rss>
